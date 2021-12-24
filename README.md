@@ -1,2 +1,2 @@
 # quit-USB
-pequeño programa para quitar USB con seguridad / small program to safely remove USB
+pequeño programa hecho en shell para quitar USB con seguridaden Linux / small program made with shell to safely remove USB for Linux
